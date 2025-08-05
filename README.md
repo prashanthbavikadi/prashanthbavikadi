@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working as a DevOps Engineer at TCS
+- 🔭 DevOps Engineer at TCS
 - 🌱 Currently exploring: Azure, GitHub Actions, and DevSecOps
 - 💬 Ask me about: AWS, CI/CD, Terraform, Kubernetes, Docker
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/prashanth-bavikadi) | [Email](mailto:bavikadiprashanthias@gmail.com)
