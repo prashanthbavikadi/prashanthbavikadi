@@ -16,6 +16,10 @@
 
 ---
 
+![GitHub Streak](https://streak-stats.demolab.com?user=prashanthbavikadi&theme=default)
+
+---
+
 ### 🛠️ Tools & Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
