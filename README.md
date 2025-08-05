@@ -32,20 +32,3 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)
 
----
-
-### 📈 GitHub Stats
-
-![Prashanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashanthbavikadi&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthbavikadi&layout=compact)
-
----
-
-### 📂 Featured Projects
-
-- 🔧 [High-Potential-Loan-Customer](https://github.com/prashanthbavikadi/High-Potential-Loan-Customer)
-- 📦 [Dockerized-Flask-App](https://github.com/prashanthbavikadi/docker-flask-app)
-
----
-
