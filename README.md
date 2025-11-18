@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Prashanth Bavikadi
+## Hi there 👋 I'm Bavikadi Prashanth Krishna
 
 
 🎯 DevOps Engineer at TCS | Cloud & Automation Enthusiast | CI/CD | AWS | Docker | Kubernetes
